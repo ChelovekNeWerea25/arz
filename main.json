@@ -1,0 +1,337 @@
+[
+  {
+    "gameId": "arizona",
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=2iKlqwhVU0A",
+    "multipliers": {
+      "donate": 2,
+      "experience": 0
+    },
+    "shop": {
+      "donateHandlerUrl": "https://arizona-rp.com/shop",
+      "exchangeRate": 1,
+      "bundles": [
+        {
+          "title": "Начинающий ловец",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-1.png",
+          "cash": 14000000,
+          "items": [
+            "Premium VIP",
+            "Premium Maverick"
+          ],
+          "price": 2499,
+          "priceBeforeDiscount": 2800,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Начинающий магнат",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-2.png",
+          "cash": 30000000,
+          "items": [
+            "Premium VIP",
+            "Premium Maverick",
+            "Владение 4 домами и бизнесами"
+          ],
+          "price": 3699,
+          "priceBeforeDiscount": 4000,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Вечный Premium VIP",
+          "image": "https://api-samp.arizona-five.com/launcher/premium-vip.png",
+          "cash": null,
+          "items": null,
+          "price": 1999,
+          "priceBeforeDiscount": 3000,
+          "url": "https://arizona-rp.com/shop"
+        }
+      ],
+      "packs": [
+        {
+          "title": "Стартовый капитал",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-pack-1.png",
+          "cash": 10500000,
+          "price": 299,
+          "priceBeforeDiscount": 400,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Стартовый капитал",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-pack-2.png",
+          "cash": 24000000,
+          "price": 599,
+          "priceBeforeDiscount": 700,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Стартовый капитал",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-pack-3.png",
+          "cash": 39000000,
+          "price": 999,
+          "priceBeforeDiscount": 1200,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "iPhone X и Samsung Galaxy 10",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-3.png",
+          "cash": null,
+          "items": null,
+          "price": 499,
+          "priceBeforeDiscount": 600,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Все лицензии на 5 лет",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-4.png",
+          "cash": null,
+          "items": null,
+          "price": 499,
+          "priceBeforeDiscount": 600,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Нимб, киоск и лейка",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-5.png",
+          "cash": null,
+          "items": null,
+          "price": 4999,
+          "priceBeforeDiscount": 6250,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "ADD VIP",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-6.png",
+          "cash": null,
+          "items": null,
+          "price": 1999,
+          "priceBeforeDiscount": 2500,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "20 точильных амулетов",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-11.png",
+          "cash": null,
+          "items": null,
+          "price": 349,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "100 точильных камней",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-12.png",
+          "cash": null,
+          "items": null,
+          "price": 149,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Toyota LC Prado",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-13.png",
+          "cash": null,
+          "items": null,
+          "price": 3000,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Toyota LC 200",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-14.png",
+          "cash": null,
+          "items": null,
+          "price": 3600,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Mercedes e63 2014",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-16.png",
+          "cash": null,
+          "items": null,
+          "price": 3300,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "AUDI Q7 2017",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-17.png",
+          "cash": null,
+          "items": null,
+          "price": 3450,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "Toyota Supra 2020",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-18.png",
+          "cash": null,
+          "items": null,
+          "price": 4800,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        },
+        {
+          "title": "BMW 6",
+          "image": "https://api-samp.arizona-five.com/launcher/arizona-bundle-19.png",
+          "cash": null,
+          "items": null,
+          "price": 4200,
+          "priceBeforeDiscount": null,
+          "url": "https://arizona-rp.com/shop"
+        }
+      ]
+    },
+    "news": [
+      {
+        "title": "Нам 8 лет!",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1661597016528.jpg",
+        "url": "https://arizona-rp.com/posts/192-nam-8-let"
+      },
+      {
+        "title": "Летнее обновление 2022",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1656423368334.jpg",
+        "url": "https://arizona-rp.com/posts/191-letnee-obnovleniye-22"
+      },
+      {
+        "title": "Открытие 21-го сервераа!",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1651697950295.jpg",
+        "url": "https://arizona-rp.com/posts/190-open-21"
+      },
+      {
+        "title": "Пасхальное обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1650956461240.jpg",
+        "url": "https://arizona-rp.com/posts/189-pashalnoe-obnovleniye"
+      }
+    ]
+  },
+  {
+    "gameId": "rodina",
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=zzhiAaYUN0M",
+    "multipliers": {
+      "donate": 2,
+      "experience": 1
+    },
+    "shop": {
+      "donateHandlerUrl": "https://rodina-rp.com/donate",
+      "exchangeRate": 1,
+      "bundles": [],
+      "packs": [
+        {
+          "title": "Стартовый",
+          "image": "https://api-samp.arizona-five.com/launcher/rodina-pack-1.png",
+          "cash": 5000000,
+          "price": 300,
+          "priceBeforeDiscount": 450,
+          "url": "https://rodina-rp.com/donate"
+        },
+        {
+          "title": "Богатенький",
+          "image": "https://api-samp.arizona-five.com/launcher/rodina-pack-2.png",
+          "cash": 8500000,
+          "price": 500,
+          "priceBeforeDiscount": 800,
+          "url": "https://rodina-rp.com/donate"
+        },
+        {
+          "title": "Большой запас",
+          "image": "https://api-samp.arizona-five.com/launcher/rodina-pack-3.png",
+          "cash": 35000000,
+          "price": 2000,
+          "priceBeforeDiscount": 2500,
+          "url": "https://rodina-rp.com/donate"
+        }
+      ]
+    },
+    "news": [
+      {
+        "title": "Летнее обновление 2022",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1658083758393.jpg",
+        "url": "https://rodina-rp.com/news/view/91"
+      },
+      {
+        "title": "Пасхальное обновление 2022",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1651186162531.jpg",
+        "url": "https://rodina-rp.com/news/view/90"
+      },
+      {
+        "title": "Февральское обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1646335266151.jpg",
+        "url": "https://rodina-rp.com/news/view/89"
+      },
+      {
+        "title": "Новогоднее обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1641457791519.jpg",
+        "url": "https://rodina-rp.com/news/view/88"
+      }
+    ]
+  },
+  {
+    "gameId": "arizonav",
+    "multipliers": {
+      "donate": 1,
+      "experience": 1
+    },
+    "shop": {
+      "donateHandlerUrl": "https://arizona-v.com/#/donate",
+      "exchangeRate": 1,
+      "bundles": [],
+      "packs": []
+    },
+    "news": [
+      {
+        "title": "Июльское обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1658082492735.jpg",
+        "url": "https://arizona-v.com/#/desc?id=31"
+      },
+      {
+        "title": "Лето 2022",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1656800380834.jpg",
+        "url": "https://arizona-v.com/#/desc?id=30"
+      },
+      {
+        "title": "Весеннее обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1651437946583.jpg",
+        "url": "https://arizona-v.com/#/desc?id=29"
+      },
+      {
+        "title": "Весеннее обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1648803134642.jpg",
+        "url": "https://arizona-v.com/#/desc?id=28"
+      }
+    ]
+  },
+  {
+    "gameId": "village",
+    "multipliers": {
+      "donate": 0,
+      "experience": 1
+    },
+    "shop": {
+      "donateHandlerUrl": null,
+      "exchangeRate": 1,
+      "bundles": [],
+      "packs": []
+    },
+    "news": [
+      {
+        "title": "Новогоднее обновление",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1641458067974.jpg",
+        "url": "https://bone-country.ru/news/view/44"
+      },
+      {
+        "title": "Большое обновление 2021",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1639569015432.jpg",
+        "url": "https://bone-country.ru/news/view/43"
+      },
+      {
+        "title": "Обновление на Halloween",
+        "imageUrl": "https://api-samp.arizona-five.ru//uploads/1635773748811.jpg",
+        "url": "https://bone-country.ru/news/view/42"
+      },
+      {
+        "title": "Нам 2 года!",
+        "imageUrl": "https://api-samp.arizona-five.ru/uploads/1628796706086.jpg",
+        "url": "https://bone-country.ru/news/view/41"
+      }
+    ]
+  }
+]
