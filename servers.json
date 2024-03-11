@@ -1,0 +1,3549 @@
+{
+  "arizona": [
+    {
+      "number": 4,
+      "name": "Chandler",
+      "ip": "185.169.134.44",
+      "port": 7777,
+      "online": 408,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azrpchandler",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/4.png",
+      "additionalIps": [
+        "185.169.134.44"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710133921
+        },
+        {
+          "online": 282,
+          "time": 1710137582
+        },
+        {
+          "online": 347,
+          "time": 1710141241
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Show Low",
+      "ip": "80.66.82.190",
+      "port": 7777,
+      "online": 453,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/showlowazrp",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/17.png",
+      "additionalIps": [
+        "80.66.82.190"
+      ],
+      "plotPoints": [
+        {
+          "online": 805,
+          "time": 1710058322
+        },
+        {
+          "online": 856,
+          "time": 1710061982
+        },
+        {
+          "online": 912,
+          "time": 1710065642
+        },
+        {
+          "online": 898,
+          "time": 1710069302
+        },
+        {
+          "online": 927,
+          "time": 1710072961
+        },
+        {
+          "online": 923,
+          "time": 1710076562
+        },
+        {
+          "online": 908,
+          "time": 1710080222
+        },
+        {
+          "online": 947,
+          "time": 1710083882
+        },
+        {
+          "online": 937,
+          "time": 1710087541
+        },
+        {
+          "online": 932,
+          "time": 1710091142
+        },
+        {
+          "online": 868,
+          "time": 1710094801
+        },
+        {
+          "online": 791,
+          "time": 1710098402
+        },
+        {
+          "online": 700,
+          "time": 1710102061
+        },
+        {
+          "online": 580,
+          "time": 1710105722
+        },
+        {
+          "online": 490,
+          "time": 1710109382
+        },
+        {
+          "online": 421,
+          "time": 1710113041
+        },
+        {
+          "online": 383,
+          "time": 1710116642
+        },
+        {
+          "online": 379,
+          "time": 1710120301
+        },
+        {
+          "online": 144,
+          "time": 1710123902
+        },
+        {
+          "online": 186,
+          "time": 1710127561
+        },
+        {
+          "online": 235,
+          "time": 1710131162
+        },
+        {
+          "online": 311,
+          "time": 1710134821
+        },
+        {
+          "online": 369,
+          "time": 1710138481
+        },
+        {
+          "online": 433,
+          "time": 1710142082
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": "Holiday",
+      "ip": "80.66.82.132",
+      "port": 7777,
+      "online": 457,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arzholiday23",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/23.png",
+      "additionalIps": [
+        "80.66.82.132"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710110102
+        },
+        {
+          "online": 456,
+          "time": 1710113761
+        },
+        {
+          "online": 397,
+          "time": 1710117421
+        },
+        {
+          "online": 373,
+          "time": 1710121082
+        },
+        {
+          "online": 174,
+          "time": 1710124742
+        },
+        {
+          "online": 242,
+          "time": 1710128401
+        },
+        {
+          "online": 269,
+          "time": 1710132061
+        },
+        {
+          "online": 360,
+          "time": 1710135662
+        },
+        {
+          "online": 411,
+          "time": 1710139322
+        },
+        {
+          "online": 451,
+          "time": 1710142982
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Payson",
+      "ip": "185.169.134.174",
+      "port": 7777,
+      "online": 461,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonapayson15",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/15.png",
+      "additionalIps": [
+        "185.169.134.174"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710066302
+        },
+        {
+          "online": 911,
+          "time": 1710069962
+        },
+        {
+          "online": 927,
+          "time": 1710073621
+        },
+        {
+          "online": 968,
+          "time": 1710077222
+        },
+        {
+          "online": 951,
+          "time": 1710080881
+        },
+        {
+          "online": 944,
+          "time": 1710084541
+        },
+        {
+          "online": 931,
+          "time": 1710088142
+        },
+        {
+          "online": 913,
+          "time": 1710091802
+        },
+        {
+          "online": 920,
+          "time": 1710095461
+        },
+        {
+          "online": 796,
+          "time": 1710099062
+        },
+        {
+          "online": 699,
+          "time": 1710102722
+        },
+        {
+          "online": 581,
+          "time": 1710106382
+        },
+        {
+          "online": 489,
+          "time": 1710110042
+        },
+        {
+          "online": 444,
+          "time": 1710113701
+        },
+        {
+          "online": 384,
+          "time": 1710117302
+        },
+        {
+          "online": 393,
+          "time": 1710120962
+        },
+        {
+          "online": 173,
+          "time": 1710124621
+        },
+        {
+          "online": 245,
+          "time": 1710128282
+        },
+        {
+          "online": 314,
+          "time": 1710131942
+        },
+        {
+          "online": 342,
+          "time": 1710135602
+        },
+        {
+          "online": 399,
+          "time": 1710139262
+        },
+        {
+          "online": 440,
+          "time": 1710142921
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "Page",
+      "ip": "80.66.82.168",
+      "port": 7777,
+      "online": 488,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azrppage",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/19.png",
+      "additionalIps": [
+        "80.66.82.168"
+      ],
+      "plotPoints": [
+        {
+          "online": 830,
+          "time": 1710057242
+        },
+        {
+          "online": 914,
+          "time": 1710060901
+        },
+        {
+          "online": 938,
+          "time": 1710064502
+        },
+        {
+          "online": 949,
+          "time": 1710068162
+        },
+        {
+          "online": 975,
+          "time": 1710071822
+        },
+        {
+          "online": 999,
+          "time": 1710075481
+        },
+        {
+          "online": 999,
+          "time": 1710079142
+        },
+        {
+          "online": 996,
+          "time": 1710082802
+        },
+        {
+          "online": 966,
+          "time": 1710086462
+        },
+        {
+          "online": 965,
+          "time": 1710090122
+        },
+        {
+          "online": 925,
+          "time": 1710093781
+        },
+        {
+          "online": 872,
+          "time": 1710097382
+        },
+        {
+          "online": 775,
+          "time": 1710101042
+        },
+        {
+          "online": 646,
+          "time": 1710104702
+        },
+        {
+          "online": 576,
+          "time": 1710108362
+        },
+        {
+          "online": 522,
+          "time": 1710112022
+        },
+        {
+          "online": 508,
+          "time": 1710115682
+        },
+        {
+          "online": 468,
+          "time": 1710119342
+        },
+        {
+          "online": 0,
+          "time": 1710123002
+        },
+        {
+          "online": 248,
+          "time": 1710126662
+        },
+        {
+          "online": 308,
+          "time": 1710130322
+        },
+        {
+          "online": 364,
+          "time": 1710133982
+        },
+        {
+          "online": 405,
+          "time": 1710137642
+        },
+        {
+          "online": 451,
+          "time": 1710141301
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Brainburg",
+      "ip": "185.169.134.45",
+      "port": 7777,
+      "online": 492,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/brainburg_arizona",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/5.png",
+      "additionalIps": [
+        "185.169.134.45"
+      ],
+      "plotPoints": [
+        {
+          "online": 779,
+          "time": 1710059161
+        },
+        {
+          "online": 861,
+          "time": 1710062762
+        },
+        {
+          "online": 912,
+          "time": 1710066421
+        },
+        {
+          "online": 960,
+          "time": 1710070082
+        },
+        {
+          "online": 934,
+          "time": 1710073742
+        },
+        {
+          "online": 941,
+          "time": 1710077402
+        },
+        {
+          "online": 935,
+          "time": 1710081062
+        },
+        {
+          "online": 922,
+          "time": 1710084722
+        },
+        {
+          "online": 946,
+          "time": 1710088382
+        },
+        {
+          "online": 984,
+          "time": 1710092042
+        },
+        {
+          "online": 906,
+          "time": 1710095702
+        },
+        {
+          "online": 817,
+          "time": 1710099362
+        },
+        {
+          "online": 711,
+          "time": 1710103022
+        },
+        {
+          "online": 581,
+          "time": 1710106682
+        },
+        {
+          "online": 505,
+          "time": 1710110342
+        },
+        {
+          "online": 448,
+          "time": 1710114001
+        },
+        {
+          "online": 412,
+          "time": 1710117661
+        },
+        {
+          "online": 400,
+          "time": 1710121262
+        },
+        {
+          "online": 211,
+          "time": 1710124922
+        },
+        {
+          "online": 258,
+          "time": 1710128582
+        },
+        {
+          "online": 326,
+          "time": 1710132241
+        },
+        {
+          "online": 358,
+          "time": 1710135901
+        },
+        {
+          "online": 422,
+          "time": 1710139561
+        },
+        {
+          "online": 468,
+          "time": 1710143162
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Prescott",
+      "ip": "185.169.134.166",
+      "port": 7777,
+      "online": 497,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/prescottazrp",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/11.png",
+      "additionalIps": [
+        "185.169.134.166"
+      ],
+      "plotPoints": [
+        {
+          "online": 798,
+          "time": 1710058022
+        },
+        {
+          "online": 900,
+          "time": 1710061682
+        },
+        {
+          "online": 917,
+          "time": 1710065342
+        },
+        {
+          "online": 952,
+          "time": 1710069001
+        },
+        {
+          "online": 941,
+          "time": 1710072662
+        },
+        {
+          "online": 954,
+          "time": 1710076322
+        },
+        {
+          "online": 968,
+          "time": 1710079982
+        },
+        {
+          "online": 945,
+          "time": 1710083641
+        },
+        {
+          "online": 976,
+          "time": 1710087242
+        },
+        {
+          "online": 945,
+          "time": 1710090901
+        },
+        {
+          "online": 896,
+          "time": 1710094502
+        },
+        {
+          "online": 834,
+          "time": 1710098162
+        },
+        {
+          "online": 732,
+          "time": 1710101822
+        },
+        {
+          "online": 595,
+          "time": 1710105481
+        },
+        {
+          "online": 521,
+          "time": 1710109142
+        },
+        {
+          "online": 460,
+          "time": 1710112801
+        },
+        {
+          "online": 428,
+          "time": 1710116402
+        },
+        {
+          "online": 397,
+          "time": 1710120062
+        },
+        {
+          "online": 137,
+          "time": 1710123722
+        },
+        {
+          "online": 222,
+          "time": 1710127382
+        },
+        {
+          "online": 270,
+          "time": 1710131042
+        },
+        {
+          "online": 341,
+          "time": 1710134702
+        },
+        {
+          "online": 382,
+          "time": 1710138362
+        },
+        {
+          "online": 462,
+          "time": 1710142022
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Scottdale",
+      "ip": "185.169.134.43",
+      "port": 7777,
+      "online": 498,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azrpscottdale",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/3.png",
+      "additionalIps": [
+        "185.169.134.43"
+      ],
+      "plotPoints": [
+        {
+          "online": 868,
+          "time": 1710058442
+        },
+        {
+          "online": 954,
+          "time": 1710062102
+        },
+        {
+          "online": 968,
+          "time": 1710065761
+        },
+        {
+          "online": 995,
+          "time": 1710069422
+        },
+        {
+          "online": 995,
+          "time": 1710073081
+        },
+        {
+          "online": 969,
+          "time": 1710076682
+        },
+        {
+          "online": 981,
+          "time": 1710080342
+        },
+        {
+          "online": 985,
+          "time": 1710084002
+        },
+        {
+          "online": 969,
+          "time": 1710087662
+        },
+        {
+          "online": 998,
+          "time": 1710091321
+        },
+        {
+          "online": 957,
+          "time": 1710094922
+        },
+        {
+          "online": 877,
+          "time": 1710098582
+        },
+        {
+          "online": 747,
+          "time": 1710102242
+        },
+        {
+          "online": 586,
+          "time": 1710105902
+        },
+        {
+          "online": 503,
+          "time": 1710109561
+        },
+        {
+          "online": 450,
+          "time": 1710113162
+        },
+        {
+          "online": 410,
+          "time": 1710116821
+        },
+        {
+          "online": 391,
+          "time": 1710120422
+        },
+        {
+          "online": 192,
+          "time": 1710124081
+        },
+        {
+          "online": 225,
+          "time": 1710127682
+        },
+        {
+          "online": 278,
+          "time": 1710131341
+        },
+        {
+          "online": 325,
+          "time": 1710134942
+        },
+        {
+          "online": 405,
+          "time": 1710138602
+        },
+        {
+          "online": 459,
+          "time": 1710142261
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "name": "Phoenix",
+      "ip": "arzphoenix.s-amp.com",
+      "port": 7777,
+      "online": 503,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizona1phoenix",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/1.png",
+      "additionalIps": [
+        "185.169.134.3",
+        "185.169.132.105"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710133982
+        },
+        {
+          "online": 371,
+          "time": 1710137642
+        },
+        {
+          "online": 454,
+          "time": 1710141301
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "Sun-City",
+      "ip": "80.66.82.159",
+      "port": 7777,
+      "online": 503,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizona_sun20",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/20.png",
+      "additionalIps": [
+        "80.66.82.159"
+      ],
+      "plotPoints": [
+        {
+          "online": 890,
+          "time": 1710059581
+        },
+        {
+          "online": 967,
+          "time": 1710063182
+        },
+        {
+          "online": 979,
+          "time": 1710066842
+        },
+        {
+          "online": 1000,
+          "time": 1710070502
+        },
+        {
+          "online": 992,
+          "time": 1710074162
+        },
+        {
+          "online": 997,
+          "time": 1710077822
+        },
+        {
+          "online": 982,
+          "time": 1710081481
+        },
+        {
+          "online": 992,
+          "time": 1710085142
+        },
+        {
+          "online": 992,
+          "time": 1710088802
+        },
+        {
+          "online": 989,
+          "time": 1710092461
+        },
+        {
+          "online": 936,
+          "time": 1710096122
+        },
+        {
+          "online": 864,
+          "time": 1710099781
+        },
+        {
+          "online": 721,
+          "time": 1710103382
+        },
+        {
+          "online": 616,
+          "time": 1710107042
+        },
+        {
+          "online": 550,
+          "time": 1710110701
+        },
+        {
+          "online": 455,
+          "time": 1710114302
+        },
+        {
+          "online": 427,
+          "time": 1710117962
+        },
+        {
+          "online": 419,
+          "time": 1710121622
+        },
+        {
+          "online": 220,
+          "time": 1710125281
+        },
+        {
+          "online": 270,
+          "time": 1710128882
+        },
+        {
+          "online": 320,
+          "time": 1710132542
+        },
+        {
+          "online": 372,
+          "time": 1710136201
+        },
+        {
+          "online": 419,
+          "time": 1710139802
+        },
+        {
+          "online": 501,
+          "time": 1710143461
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Winslow",
+      "ip": "185.169.134.173",
+      "port": 7777,
+      "online": 506,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azwinslow",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/14.png",
+      "additionalIps": [
+        "185.169.134.173"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710122822
+        },
+        {
+          "online": 184,
+          "time": 1710126482
+        },
+        {
+          "online": 269,
+          "time": 1710130142
+        },
+        {
+          "online": 349,
+          "time": 1710133802
+        },
+        {
+          "online": 412,
+          "time": 1710137461
+        },
+        {
+          "online": 442,
+          "time": 1710141062
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Kingman",
+      "ip": "185.169.134.172",
+      "port": 7777,
+      "online": 508,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/kingman13",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/13.png",
+      "additionalIps": [
+        "185.169.134.172"
+      ],
+      "plotPoints": [
+        {
+          "online": 920,
+          "time": 1710060181
+        },
+        {
+          "online": 983,
+          "time": 1710063782
+        },
+        {
+          "online": 999,
+          "time": 1710067442
+        },
+        {
+          "online": 997,
+          "time": 1710071101
+        },
+        {
+          "online": 997,
+          "time": 1710074702
+        },
+        {
+          "online": 998,
+          "time": 1710078361
+        },
+        {
+          "online": 998,
+          "time": 1710082022
+        },
+        {
+          "online": 999,
+          "time": 1710085681
+        },
+        {
+          "online": 984,
+          "time": 1710089342
+        },
+        {
+          "online": 998,
+          "time": 1710093002
+        },
+        {
+          "online": 967,
+          "time": 1710096662
+        },
+        {
+          "online": 889,
+          "time": 1710100321
+        },
+        {
+          "online": 736,
+          "time": 1710103922
+        },
+        {
+          "online": 557,
+          "time": 1710107582
+        },
+        {
+          "online": 528,
+          "time": 1710111242
+        },
+        {
+          "online": 476,
+          "time": 1710114902
+        },
+        {
+          "online": 427,
+          "time": 1710118561
+        },
+        {
+          "online": 425,
+          "time": 1710122222
+        },
+        {
+          "online": 227,
+          "time": 1710125881
+        },
+        {
+          "online": 279,
+          "time": 1710129482
+        },
+        {
+          "online": 340,
+          "time": 1710133142
+        },
+        {
+          "online": 420,
+          "time": 1710136802
+        },
+        {
+          "online": 473,
+          "time": 1710140461
+        },
+        {
+          "online": 508,
+          "time": 1710144062
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name": "Yava",
+      "ip": "80.66.82.113",
+      "port": 7777,
+      "online": 514,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonayava25",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/25.png",
+      "additionalIps": [
+        "80.66.82.113"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710122882
+        },
+        {
+          "online": 218,
+          "time": 1710126541
+        },
+        {
+          "online": 281,
+          "time": 1710130142
+        },
+        {
+          "online": 341,
+          "time": 1710133802
+        },
+        {
+          "online": 405,
+          "time": 1710137461
+        },
+        {
+          "online": 468,
+          "time": 1710141062
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Mesa",
+      "ip": "185.169.134.59",
+      "port": 7777,
+      "online": 543,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonarpmesa7",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/7.png",
+      "additionalIps": [
+        "185.169.134.59"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710082382
+        },
+        {
+          "online": 994,
+          "time": 1710086042
+        },
+        {
+          "online": 997,
+          "time": 1710089702
+        },
+        {
+          "online": 997,
+          "time": 1710093362
+        },
+        {
+          "online": 997,
+          "time": 1710097022
+        },
+        {
+          "online": 987,
+          "time": 1710100681
+        },
+        {
+          "online": 867,
+          "time": 1710104342
+        },
+        {
+          "online": 721,
+          "time": 1710108002
+        },
+        {
+          "online": 571,
+          "time": 1710111662
+        },
+        {
+          "online": 517,
+          "time": 1710115321
+        },
+        {
+          "online": 487,
+          "time": 1710118922
+        },
+        {
+          "online": 0,
+          "time": 1710122581
+        },
+        {
+          "online": 306,
+          "time": 1710126242
+        },
+        {
+          "online": 362,
+          "time": 1710129902
+        },
+        {
+          "online": 407,
+          "time": 1710133562
+        },
+        {
+          "online": 466,
+          "time": 1710137222
+        },
+        {
+          "online": 502,
+          "time": 1710140882
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Gilbert",
+      "ip": "80.66.82.191",
+      "port": 7777,
+      "online": 549,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonagilbert16",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/16.png",
+      "additionalIps": [
+        "80.66.82.191"
+      ],
+      "plotPoints": [
+        {
+          "online": 794,
+          "time": 1710057062
+        },
+        {
+          "online": 891,
+          "time": 1710060722
+        },
+        {
+          "online": 963,
+          "time": 1710064382
+        },
+        {
+          "online": 989,
+          "time": 1710068041
+        },
+        {
+          "online": 999,
+          "time": 1710071642
+        },
+        {
+          "online": 1000,
+          "time": 1710075301
+        },
+        {
+          "online": 999,
+          "time": 1710078902
+        },
+        {
+          "online": 1000,
+          "time": 1710082562
+        },
+        {
+          "online": 1000,
+          "time": 1710086222
+        },
+        {
+          "online": 1000,
+          "time": 1710089881
+        },
+        {
+          "online": 998,
+          "time": 1710093482
+        },
+        {
+          "online": 999,
+          "time": 1710097142
+        },
+        {
+          "online": 896,
+          "time": 1710100801
+        },
+        {
+          "online": 768,
+          "time": 1710104402
+        },
+        {
+          "online": 631,
+          "time": 1710108062
+        },
+        {
+          "online": 548,
+          "time": 1710111722
+        },
+        {
+          "online": 490,
+          "time": 1710115382
+        },
+        {
+          "online": 463,
+          "time": 1710119042
+        },
+        {
+          "online": 32,
+          "time": 1710122701
+        },
+        {
+          "online": 265,
+          "time": 1710126302
+        },
+        {
+          "online": 328,
+          "time": 1710129962
+        },
+        {
+          "online": 390,
+          "time": 1710133622
+        },
+        {
+          "online": 468,
+          "time": 1710137282
+        },
+        {
+          "online": 485,
+          "time": 1710140942
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Saint-Rose",
+      "ip": "arzsaintrose.s-amp.com",
+      "port": 7777,
+      "online": 554,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/saint_rose_official",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/6.png",
+      "additionalIps": [
+        "185.169.134.5",
+        "185.169.132.107"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710063481
+        },
+        {
+          "online": 998,
+          "time": 1710067141
+        },
+        {
+          "online": 999,
+          "time": 1710070742
+        },
+        {
+          "online": 997,
+          "time": 1710074401
+        },
+        {
+          "online": 999,
+          "time": 1710078062
+        },
+        {
+          "online": 985,
+          "time": 1710081722
+        },
+        {
+          "online": 998,
+          "time": 1710085382
+        },
+        {
+          "online": 997,
+          "time": 1710089041
+        },
+        {
+          "online": 994,
+          "time": 1710092642
+        },
+        {
+          "online": 997,
+          "time": 1710096302
+        },
+        {
+          "online": 953,
+          "time": 1710099962
+        },
+        {
+          "online": 781,
+          "time": 1710103621
+        },
+        {
+          "online": 630,
+          "time": 1710107222
+        },
+        {
+          "online": 537,
+          "time": 1710110882
+        },
+        {
+          "online": 479,
+          "time": 1710114541
+        },
+        {
+          "online": 420,
+          "time": 1710118202
+        },
+        {
+          "online": 412,
+          "time": 1710121862
+        },
+        {
+          "online": 233,
+          "time": 1710125522
+        },
+        {
+          "online": 279,
+          "time": 1710129181
+        },
+        {
+          "online": 359,
+          "time": 1710132782
+        },
+        {
+          "online": 440,
+          "time": 1710136442
+        },
+        {
+          "online": 483,
+          "time": 1710140102
+        },
+        {
+          "online": 563,
+          "time": 1710143762
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "name": "Bumble Bee",
+      "ip": "80.66.82.87",
+      "port": 7777,
+      "online": 555,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azbumblebee",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/27.png",
+      "additionalIps": [
+        "80.66.82.87"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710134042
+        },
+        {
+          "online": 412,
+          "time": 1710137702
+        },
+        {
+          "online": 528,
+          "time": 1710141362
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Casa-Grande",
+      "ip": "80.66.82.188",
+      "port": 7777,
+      "online": 568,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/casagrandearizona",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/18.png",
+      "additionalIps": [
+        "80.66.82.188"
+      ],
+      "plotPoints": [
+        {
+          "online": 999,
+          "time": 1710057062
+        },
+        {
+          "online": 1000,
+          "time": 1710060722
+        },
+        {
+          "online": 999,
+          "time": 1710064382
+        },
+        {
+          "online": 999,
+          "time": 1710068041
+        },
+        {
+          "online": 999,
+          "time": 1710071642
+        },
+        {
+          "online": 999,
+          "time": 1710075301
+        },
+        {
+          "online": 1000,
+          "time": 1710078902
+        },
+        {
+          "online": 999,
+          "time": 1710082562
+        },
+        {
+          "online": 998,
+          "time": 1710086222
+        },
+        {
+          "online": 999,
+          "time": 1710089881
+        },
+        {
+          "online": 1000,
+          "time": 1710093482
+        },
+        {
+          "online": 997,
+          "time": 1710097142
+        },
+        {
+          "online": 1000,
+          "time": 1710100801
+        },
+        {
+          "online": 888,
+          "time": 1710104402
+        },
+        {
+          "online": 680,
+          "time": 1710108062
+        },
+        {
+          "online": 595,
+          "time": 1710111722
+        },
+        {
+          "online": 548,
+          "time": 1710115382
+        },
+        {
+          "online": 503,
+          "time": 1710119042
+        },
+        {
+          "online": 52,
+          "time": 1710122701
+        },
+        {
+          "online": 240,
+          "time": 1710126302
+        },
+        {
+          "online": 302,
+          "time": 1710129962
+        },
+        {
+          "online": 357,
+          "time": 1710133622
+        },
+        {
+          "online": 432,
+          "time": 1710137282
+        },
+        {
+          "online": 530,
+          "time": 1710140942
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Glendale",
+      "ip": "185.169.134.171",
+      "port": 7777,
+      "online": 575,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/glendalearz",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/12.png",
+      "additionalIps": [
+        "185.169.134.171"
+      ],
+      "plotPoints": [
+        {
+          "online": 827,
+          "time": 1710059161
+        },
+        {
+          "online": 892,
+          "time": 1710062762
+        },
+        {
+          "online": 936,
+          "time": 1710066421
+        },
+        {
+          "online": 985,
+          "time": 1710070082
+        },
+        {
+          "online": 989,
+          "time": 1710073742
+        },
+        {
+          "online": 991,
+          "time": 1710077402
+        },
+        {
+          "online": 1000,
+          "time": 1710081062
+        },
+        {
+          "online": 983,
+          "time": 1710084722
+        },
+        {
+          "online": 997,
+          "time": 1710088382
+        },
+        {
+          "online": 997,
+          "time": 1710092042
+        },
+        {
+          "online": 967,
+          "time": 1710095702
+        },
+        {
+          "online": 861,
+          "time": 1710099362
+        },
+        {
+          "online": 732,
+          "time": 1710103022
+        },
+        {
+          "online": 660,
+          "time": 1710106682
+        },
+        {
+          "online": 602,
+          "time": 1710110342
+        },
+        {
+          "online": 542,
+          "time": 1710114001
+        },
+        {
+          "online": 488,
+          "time": 1710117661
+        },
+        {
+          "online": 462,
+          "time": 1710121262
+        },
+        {
+          "online": 228,
+          "time": 1710124922
+        },
+        {
+          "online": 298,
+          "time": 1710128582
+        },
+        {
+          "online": 351,
+          "time": 1710132241
+        },
+        {
+          "online": 420,
+          "time": 1710135901
+        },
+        {
+          "online": 469,
+          "time": 1710139561
+        },
+        {
+          "online": 542,
+          "time": 1710143162
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "Queen-Creek",
+      "ip": "80.66.82.200",
+      "port": 7777,
+      "online": 576,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonaqueen21",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/21.png",
+      "additionalIps": [
+        "80.66.82.200"
+      ],
+      "plotPoints": [
+        {
+          "online": 806,
+          "time": 1710057062
+        },
+        {
+          "online": 911,
+          "time": 1710060722
+        },
+        {
+          "online": 991,
+          "time": 1710064382
+        },
+        {
+          "online": 999,
+          "time": 1710068041
+        },
+        {
+          "online": 997,
+          "time": 1710071642
+        },
+        {
+          "online": 999,
+          "time": 1710075301
+        },
+        {
+          "online": 988,
+          "time": 1710078902
+        },
+        {
+          "online": 984,
+          "time": 1710082562
+        },
+        {
+          "online": 992,
+          "time": 1710086222
+        },
+        {
+          "online": 994,
+          "time": 1710089881
+        },
+        {
+          "online": 962,
+          "time": 1710093482
+        },
+        {
+          "online": 895,
+          "time": 1710097142
+        },
+        {
+          "online": 843,
+          "time": 1710100801
+        },
+        {
+          "online": 772,
+          "time": 1710104402
+        },
+        {
+          "online": 619,
+          "time": 1710108062
+        },
+        {
+          "online": 578,
+          "time": 1710111722
+        },
+        {
+          "online": 502,
+          "time": 1710115382
+        },
+        {
+          "online": 471,
+          "time": 1710119042
+        },
+        {
+          "online": 62,
+          "time": 1710122701
+        },
+        {
+          "online": 295,
+          "time": 1710126302
+        },
+        {
+          "online": 335,
+          "time": 1710129962
+        },
+        {
+          "online": 385,
+          "time": 1710133622
+        },
+        {
+          "online": 429,
+          "time": 1710137282
+        },
+        {
+          "online": 510,
+          "time": 1710140942
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": "Sedona",
+      "ip": "80.66.82.144",
+      "port": 7777,
+      "online": 577,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arzsedona22",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/22.png",
+      "additionalIps": [
+        "80.66.82.144"
+      ],
+      "plotPoints": [
+        {
+          "online": 914,
+          "time": 1710059581
+        },
+        {
+          "online": 983,
+          "time": 1710063182
+        },
+        {
+          "online": 994,
+          "time": 1710066842
+        },
+        {
+          "online": 996,
+          "time": 1710070502
+        },
+        {
+          "online": 995,
+          "time": 1710074162
+        },
+        {
+          "online": 995,
+          "time": 1710077822
+        },
+        {
+          "online": 998,
+          "time": 1710081481
+        },
+        {
+          "online": 993,
+          "time": 1710085142
+        },
+        {
+          "online": 996,
+          "time": 1710088802
+        },
+        {
+          "online": 994,
+          "time": 1710092461
+        },
+        {
+          "online": 952,
+          "time": 1710096122
+        },
+        {
+          "online": 864,
+          "time": 1710099781
+        },
+        {
+          "online": 734,
+          "time": 1710103382
+        },
+        {
+          "online": 622,
+          "time": 1710107042
+        },
+        {
+          "online": 562,
+          "time": 1710110701
+        },
+        {
+          "online": 499,
+          "time": 1710114302
+        },
+        {
+          "online": 458,
+          "time": 1710117962
+        },
+        {
+          "online": 437,
+          "time": 1710121622
+        },
+        {
+          "online": 262,
+          "time": 1710125281
+        },
+        {
+          "online": 303,
+          "time": 1710128882
+        },
+        {
+          "online": 390,
+          "time": 1710132542
+        },
+        {
+          "online": 403,
+          "time": 1710136201
+        },
+        {
+          "online": 495,
+          "time": 1710139802
+        },
+        {
+          "online": 544,
+          "time": 1710143461
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name": "Wednesday",
+      "ip": "80.66.82.128",
+      "port": 7777,
+      "online": 670,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arz24wednesday",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/24.png",
+      "additionalIps": [
+        "80.66.82.128"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710122882
+        },
+        {
+          "online": 333,
+          "time": 1710126541
+        },
+        {
+          "online": 411,
+          "time": 1710130142
+        },
+        {
+          "online": 464,
+          "time": 1710133802
+        },
+        {
+          "online": 530,
+          "time": 1710137461
+        },
+        {
+          "online": 599,
+          "time": 1710141062
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Surprise",
+      "ip": "185.169.134.109",
+      "port": 7777,
+      "online": 698,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/surprize_official",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/10.png",
+      "additionalIps": [
+        "185.169.134.109"
+      ],
+      "plotPoints": [
+        {
+          "online": 999,
+          "time": 1710060181
+        },
+        {
+          "online": 1000,
+          "time": 1710063782
+        },
+        {
+          "online": 1000,
+          "time": 1710067442
+        },
+        {
+          "online": 1000,
+          "time": 1710071101
+        },
+        {
+          "online": 1000,
+          "time": 1710074702
+        },
+        {
+          "online": 998,
+          "time": 1710078361
+        },
+        {
+          "online": 999,
+          "time": 1710082022
+        },
+        {
+          "online": 1000,
+          "time": 1710085681
+        },
+        {
+          "online": 1000,
+          "time": 1710089342
+        },
+        {
+          "online": 1000,
+          "time": 1710093002
+        },
+        {
+          "online": 999,
+          "time": 1710096662
+        },
+        {
+          "online": 999,
+          "time": 1710100321
+        },
+        {
+          "online": 960,
+          "time": 1710103922
+        },
+        {
+          "online": 746,
+          "time": 1710107582
+        },
+        {
+          "online": 709,
+          "time": 1710111242
+        },
+        {
+          "online": 655,
+          "time": 1710114902
+        },
+        {
+          "online": 579,
+          "time": 1710118561
+        },
+        {
+          "online": 602,
+          "time": 1710122222
+        },
+        {
+          "online": 434,
+          "time": 1710125881
+        },
+        {
+          "online": 488,
+          "time": 1710129482
+        },
+        {
+          "online": 552,
+          "time": 1710133142
+        },
+        {
+          "online": 593,
+          "time": 1710136802
+        },
+        {
+          "online": 633,
+          "time": 1710140461
+        },
+        {
+          "online": 698,
+          "time": 1710144062
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Red-Rock",
+      "ip": "185.169.134.61",
+      "port": 7777,
+      "online": 702,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/azrpredrock",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/8.png",
+      "additionalIps": [
+        "185.169.134.61"
+      ],
+      "plotPoints": [
+        {
+          "online": 996,
+          "time": 1710057242
+        },
+        {
+          "online": 996,
+          "time": 1710060901
+        },
+        {
+          "online": 998,
+          "time": 1710064502
+        },
+        {
+          "online": 1000,
+          "time": 1710068162
+        },
+        {
+          "online": 999,
+          "time": 1710071822
+        },
+        {
+          "online": 998,
+          "time": 1710075481
+        },
+        {
+          "online": 998,
+          "time": 1710079142
+        },
+        {
+          "online": 997,
+          "time": 1710082802
+        },
+        {
+          "online": 993,
+          "time": 1710086462
+        },
+        {
+          "online": 999,
+          "time": 1710090122
+        },
+        {
+          "online": 997,
+          "time": 1710093781
+        },
+        {
+          "online": 995,
+          "time": 1710097382
+        },
+        {
+          "online": 993,
+          "time": 1710101042
+        },
+        {
+          "online": 904,
+          "time": 1710104702
+        },
+        {
+          "online": 788,
+          "time": 1710108362
+        },
+        {
+          "online": 709,
+          "time": 1710112022
+        },
+        {
+          "online": 662,
+          "time": 1710115682
+        },
+        {
+          "online": 574,
+          "time": 1710119342
+        },
+        {
+          "online": 185,
+          "time": 1710123002
+        },
+        {
+          "online": 358,
+          "time": 1710126662
+        },
+        {
+          "online": 423,
+          "time": 1710130322
+        },
+        {
+          "online": 478,
+          "time": 1710133982
+        },
+        {
+          "online": 557,
+          "time": 1710137642
+        },
+        {
+          "online": 625,
+          "time": 1710141301
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "name": "Christmas",
+      "ip": "80.66.82.54",
+      "port": 7777,
+      "online": 742,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonachristmas28",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/28.png",
+      "additionalIps": [
+        "80.66.82.54"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710122701
+        },
+        {
+          "online": 364,
+          "time": 1710126302
+        },
+        {
+          "online": 410,
+          "time": 1710129962
+        },
+        {
+          "online": 533,
+          "time": 1710133622
+        },
+        {
+          "online": 582,
+          "time": 1710137282
+        },
+        {
+          "online": 696,
+          "time": 1710140942
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name": "Faraway",
+      "ip": "80.66.82.82",
+      "port": 7777,
+      "online": 743,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arzfaraway",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/26.png",
+      "additionalIps": [
+        "80.66.82.82"
+      ],
+      "plotPoints": [
+        {
+          "online": 1000,
+          "time": 1710060181
+        },
+        {
+          "online": 1000,
+          "time": 1710063782
+        },
+        {
+          "online": 998,
+          "time": 1710067442
+        },
+        {
+          "online": 1000,
+          "time": 1710071101
+        },
+        {
+          "online": 998,
+          "time": 1710074702
+        },
+        {
+          "online": 999,
+          "time": 1710078361
+        },
+        {
+          "online": 997,
+          "time": 1710082022
+        },
+        {
+          "online": 1000,
+          "time": 1710085681
+        },
+        {
+          "online": 1000,
+          "time": 1710089342
+        },
+        {
+          "online": 1000,
+          "time": 1710093002
+        },
+        {
+          "online": 998,
+          "time": 1710096662
+        },
+        {
+          "online": 1000,
+          "time": 1710100321
+        },
+        {
+          "online": 911,
+          "time": 1710103922
+        },
+        {
+          "online": 710,
+          "time": 1710107582
+        },
+        {
+          "online": 687,
+          "time": 1710111242
+        },
+        {
+          "online": 643,
+          "time": 1710114902
+        },
+        {
+          "online": 621,
+          "time": 1710118561
+        },
+        {
+          "online": 627,
+          "time": 1710122222
+        },
+        {
+          "online": 490,
+          "time": 1710125881
+        },
+        {
+          "online": 526,
+          "time": 1710129482
+        },
+        {
+          "online": 605,
+          "time": 1710133142
+        },
+        {
+          "online": 648,
+          "time": 1710136802
+        },
+        {
+          "online": 677,
+          "time": 1710140461
+        },
+        {
+          "online": 743,
+          "time": 1710144062
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Tucson",
+      "ip": "arztucson.s-amp.com",
+      "port": 7777,
+      "online": 754,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/ariztucson",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/2.png",
+      "additionalIps": [
+        "185.169.134.4",
+        "185.169.132.106"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710066061
+        },
+        {
+          "online": 998,
+          "time": 1710069662
+        },
+        {
+          "online": 998,
+          "time": 1710073322
+        },
+        {
+          "online": 998,
+          "time": 1710076981
+        },
+        {
+          "online": 997,
+          "time": 1710080582
+        },
+        {
+          "online": 995,
+          "time": 1710084242
+        },
+        {
+          "online": 993,
+          "time": 1710087901
+        },
+        {
+          "online": 992,
+          "time": 1710091502
+        },
+        {
+          "online": 997,
+          "time": 1710095162
+        },
+        {
+          "online": 980,
+          "time": 1710098822
+        },
+        {
+          "online": 971,
+          "time": 1710102481
+        },
+        {
+          "online": 798,
+          "time": 1710106142
+        },
+        {
+          "online": 664,
+          "time": 1710109801
+        },
+        {
+          "online": 562,
+          "time": 1710113462
+        },
+        {
+          "online": 486,
+          "time": 1710117121
+        },
+        {
+          "online": 472,
+          "time": 1710120722
+        },
+        {
+          "online": 238,
+          "time": 1710124382
+        },
+        {
+          "online": 295,
+          "time": 1710128041
+        },
+        {
+          "online": 431,
+          "time": 1710131702
+        },
+        {
+          "online": 535,
+          "time": 1710135362
+        },
+        {
+          "online": 655,
+          "time": 1710139022
+        },
+        {
+          "online": 722,
+          "time": 1710142682
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Yuma",
+      "ip": "185.169.134.107",
+      "port": 7777,
+      "online": 877,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/arizonarpyuma",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/9.png",
+      "additionalIps": [
+        "185.169.134.107"
+      ],
+      "plotPoints": [
+        {
+          "online": 999,
+          "time": 1710057062
+        },
+        {
+          "online": 999,
+          "time": 1710060722
+        },
+        {
+          "online": 999,
+          "time": 1710064382
+        },
+        {
+          "online": 999,
+          "time": 1710068041
+        },
+        {
+          "online": 999,
+          "time": 1710071642
+        },
+        {
+          "online": 1000,
+          "time": 1710075301
+        },
+        {
+          "online": 1000,
+          "time": 1710078902
+        },
+        {
+          "online": 999,
+          "time": 1710082562
+        },
+        {
+          "online": 1000,
+          "time": 1710086222
+        },
+        {
+          "online": 1000,
+          "time": 1710089881
+        },
+        {
+          "online": 996,
+          "time": 1710093482
+        },
+        {
+          "online": 1000,
+          "time": 1710097142
+        },
+        {
+          "online": 998,
+          "time": 1710100801
+        },
+        {
+          "online": 997,
+          "time": 1710104402
+        },
+        {
+          "online": 849,
+          "time": 1710108062
+        },
+        {
+          "online": 788,
+          "time": 1710111722
+        },
+        {
+          "online": 707,
+          "time": 1710115382
+        },
+        {
+          "online": 636,
+          "time": 1710119042
+        },
+        {
+          "online": 0,
+          "time": 1710122701
+        },
+        {
+          "online": 413,
+          "time": 1710126302
+        },
+        {
+          "online": 494,
+          "time": 1710129962
+        },
+        {
+          "online": 586,
+          "time": 1710133622
+        },
+        {
+          "online": 670,
+          "time": 1710137282
+        },
+        {
+          "online": 778,
+          "time": 1710140942
+        }
+      ]
+    }
+  ],
+  "rodina": [
+    {
+      "number": 6,
+      "name": "Приморский округ",
+      "ip": "80.66.82.58",
+      "port": 7777,
+      "online": 356,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/rodinarp6primorskiy",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/6.png",
+      "additionalIps": [
+        "80.66.82.58"
+      ],
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1710122765
+        },
+        {
+          "online": 124,
+          "time": 1710126426
+        },
+        {
+          "online": 167,
+          "time": 1710130085
+        },
+        {
+          "online": 226,
+          "time": 1710133745
+        },
+        {
+          "online": 266,
+          "time": 1710137403
+        },
+        {
+          "online": 304,
+          "time": 1710141064
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Южный округ",
+      "ip": "185.169.134.60",
+      "port": 8904,
+      "online": 374,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/rodina_rp2",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/2.png",
+      "additionalIps": [
+        "185.169.134.60"
+      ],
+      "plotPoints": [
+        {
+          "online": 643,
+          "time": 1710057303
+        },
+        {
+          "online": 728,
+          "time": 1710060963
+        },
+        {
+          "online": 818,
+          "time": 1710064564
+        },
+        {
+          "online": 880,
+          "time": 1710068223
+        },
+        {
+          "online": 910,
+          "time": 1710071824
+        },
+        {
+          "online": 919,
+          "time": 1710075483
+        },
+        {
+          "online": 917,
+          "time": 1710079144
+        },
+        {
+          "online": 912,
+          "time": 1710082806
+        },
+        {
+          "online": 934,
+          "time": 1710086409
+        },
+        {
+          "online": 901,
+          "time": 1710090064
+        },
+        {
+          "online": 841,
+          "time": 1710093724
+        },
+        {
+          "online": 775,
+          "time": 1710097384
+        },
+        {
+          "online": 667,
+          "time": 1710101043
+        },
+        {
+          "online": 561,
+          "time": 1710104703
+        },
+        {
+          "online": 421,
+          "time": 1710108363
+        },
+        {
+          "online": 329,
+          "time": 1710112024
+        },
+        {
+          "online": 276,
+          "time": 1710115683
+        },
+        {
+          "online": 238,
+          "time": 1710119285
+        },
+        {
+          "online": 51,
+          "time": 1710122945
+        },
+        {
+          "online": 138,
+          "time": 1710126605
+        },
+        {
+          "online": 191,
+          "time": 1710130265
+        },
+        {
+          "online": 239,
+          "time": 1710133925
+        },
+        {
+          "online": 277,
+          "time": 1710137583
+        },
+        {
+          "online": 331,
+          "time": 1710141242
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Западный округ",
+      "ip": "80.66.71.85",
+      "port": 7777,
+      "online": 377,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/rodinarp5",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/5.png",
+      "additionalIps": [
+        "80.66.71.85"
+      ],
+      "plotPoints": [
+        {
+          "online": 634,
+          "time": 1710057303
+        },
+        {
+          "online": 719,
+          "time": 1710060963
+        },
+        {
+          "online": 792,
+          "time": 1710064564
+        },
+        {
+          "online": 819,
+          "time": 1710068223
+        },
+        {
+          "online": 859,
+          "time": 1710071824
+        },
+        {
+          "online": 888,
+          "time": 1710075483
+        },
+        {
+          "online": 870,
+          "time": 1710079144
+        },
+        {
+          "online": 855,
+          "time": 1710082806
+        },
+        {
+          "online": 899,
+          "time": 1710086409
+        },
+        {
+          "online": 868,
+          "time": 1710090064
+        },
+        {
+          "online": 800,
+          "time": 1710093724
+        },
+        {
+          "online": 680,
+          "time": 1710097384
+        },
+        {
+          "online": 567,
+          "time": 1710101043
+        },
+        {
+          "online": 426,
+          "time": 1710104703
+        },
+        {
+          "online": 332,
+          "time": 1710108363
+        },
+        {
+          "online": 276,
+          "time": 1710112024
+        },
+        {
+          "online": 229,
+          "time": 1710115683
+        },
+        {
+          "online": 217,
+          "time": 1710119285
+        },
+        {
+          "online": 67,
+          "time": 1710122945
+        },
+        {
+          "online": 131,
+          "time": 1710126605
+        },
+        {
+          "online": 184,
+          "time": 1710130265
+        },
+        {
+          "online": 216,
+          "time": 1710133925
+        },
+        {
+          "online": 278,
+          "time": 1710137583
+        },
+        {
+          "online": 360,
+          "time": 1710141242
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Восточный округ",
+      "ip": "185.169.134.108",
+      "port": 7777,
+      "online": 407,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/eastern_district",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/4.png",
+      "additionalIps": [
+        "185.169.134.108"
+      ],
+      "plotPoints": [
+        {
+          "online": 566,
+          "time": 1710057303
+        },
+        {
+          "online": 714,
+          "time": 1710060963
+        },
+        {
+          "online": 738,
+          "time": 1710064564
+        },
+        {
+          "online": 793,
+          "time": 1710068223
+        },
+        {
+          "online": 830,
+          "time": 1710071824
+        },
+        {
+          "online": 880,
+          "time": 1710075483
+        },
+        {
+          "online": 853,
+          "time": 1710079144
+        },
+        {
+          "online": 863,
+          "time": 1710082806
+        },
+        {
+          "online": 848,
+          "time": 1710086409
+        },
+        {
+          "online": 834,
+          "time": 1710090064
+        },
+        {
+          "online": 795,
+          "time": 1710093724
+        },
+        {
+          "online": 665,
+          "time": 1710097384
+        },
+        {
+          "online": 570,
+          "time": 1710101043
+        },
+        {
+          "online": 426,
+          "time": 1710104703
+        },
+        {
+          "online": 320,
+          "time": 1710108363
+        },
+        {
+          "online": 256,
+          "time": 1710112024
+        },
+        {
+          "online": 228,
+          "time": 1710115683
+        },
+        {
+          "online": 201,
+          "time": 1710119285
+        },
+        {
+          "online": 81,
+          "time": 1710122945
+        },
+        {
+          "online": 142,
+          "time": 1710126605
+        },
+        {
+          "online": 168,
+          "time": 1710130265
+        },
+        {
+          "online": 234,
+          "time": 1710133925
+        },
+        {
+          "online": 273,
+          "time": 1710137583
+        },
+        {
+          "online": 318,
+          "time": 1710141242
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "name": "Центральный округ",
+      "ip": "185.169.134.163",
+      "port": 7777,
+      "online": 436,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/rodinarp1",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/1.png",
+      "additionalIps": [
+        "185.169.134.163"
+      ],
+      "plotPoints": [
+        {
+          "online": 762,
+          "time": 1710059463
+        },
+        {
+          "online": 852,
+          "time": 1710063124
+        },
+        {
+          "online": 900,
+          "time": 1710066783
+        },
+        {
+          "online": 940,
+          "time": 1710070443
+        },
+        {
+          "online": 955,
+          "time": 1710074044
+        },
+        {
+          "online": 903,
+          "time": 1710077703
+        },
+        {
+          "online": 897,
+          "time": 1710081363
+        },
+        {
+          "online": 893,
+          "time": 1710085023
+        },
+        {
+          "online": 941,
+          "time": 1710088683
+        },
+        {
+          "online": 920,
+          "time": 1710092343
+        },
+        {
+          "online": 851,
+          "time": 1710096003
+        },
+        {
+          "online": 714,
+          "time": 1710099664
+        },
+        {
+          "online": 592,
+          "time": 1710103323
+        },
+        {
+          "online": 504,
+          "time": 1710106983
+        },
+        {
+          "online": 397,
+          "time": 1710110643
+        },
+        {
+          "online": 344,
+          "time": 1710114303
+        },
+        {
+          "online": 311,
+          "time": 1710117963
+        },
+        {
+          "online": 271,
+          "time": 1710121565
+        },
+        {
+          "online": 128,
+          "time": 1710125225
+        },
+        {
+          "online": 185,
+          "time": 1710128886
+        },
+        {
+          "online": 270,
+          "time": 1710132546
+        },
+        {
+          "online": 307,
+          "time": 1710136203
+        },
+        {
+          "online": 369,
+          "time": 1710139863
+        },
+        {
+          "online": 434,
+          "time": 1710143523
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Северный Округ",
+      "ip": "185.169.134.62",
+      "port": 8904,
+      "online": 482,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "https://vk.com/rodinarpnorth",
+      "tg": "https://t.me/rodina_com",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/rodina/3.png",
+      "additionalIps": [
+        "185.169.134.62"
+      ],
+      "plotPoints": [
+        {
+          "online": 687,
+          "time": 1710058204
+        },
+        {
+          "online": 821,
+          "time": 1710061863
+        },
+        {
+          "online": 924,
+          "time": 1710065523
+        },
+        {
+          "online": 972,
+          "time": 1710069184
+        },
+        {
+          "online": 989,
+          "time": 1710072843
+        },
+        {
+          "online": 957,
+          "time": 1710076504
+        },
+        {
+          "online": 997,
+          "time": 1710080163
+        },
+        {
+          "online": 998,
+          "time": 1710083823
+        },
+        {
+          "online": 986,
+          "time": 1710087483
+        },
+        {
+          "online": 998,
+          "time": 1710091084
+        },
+        {
+          "online": 958,
+          "time": 1710094744
+        },
+        {
+          "online": 819,
+          "time": 1710098404
+        },
+        {
+          "online": 641,
+          "time": 1710102063
+        },
+        {
+          "online": 513,
+          "time": 1710105723
+        },
+        {
+          "online": 387,
+          "time": 1710109383
+        },
+        {
+          "online": 323,
+          "time": 1710113043
+        },
+        {
+          "online": 278,
+          "time": 1710116703
+        },
+        {
+          "online": 255,
+          "time": 1710120305
+        },
+        {
+          "online": 99,
+          "time": 1710123906
+        },
+        {
+          "online": 172,
+          "time": 1710127565
+        },
+        {
+          "online": 246,
+          "time": 1710131166
+        },
+        {
+          "online": 301,
+          "time": 1710134823
+        },
+        {
+          "online": 333,
+          "time": 1710138483
+        },
+        {
+          "online": 438,
+          "time": 1710142143
+        }
+      ]
+    }
+  ],
+  "arizonav": [
+    {
+      "plotPoints": [
+        {
+          "time": 1710130266,
+          "online": 0
+        },
+        {
+          "time": 1710133867,
+          "online": 49
+        },
+        {
+          "time": 1710137524,
+          "online": 61
+        },
+        {
+          "time": 1710141125,
+          "online": 83
+        }
+      ],
+      "online": 114,
+      "additionalIps": [
+        "s2.arizona-v.com"
+      ],
+      "ip": "s2.arizona-v.com",
+      "number": 1,
+      "port": 22005,
+      "name": "Arizona V | Milton",
+      "password": 0,
+      "maxplayers": 2050
+    },
+    {
+      "plotPoints": [
+        {
+          "time": 1710130327,
+          "online": 0
+        },
+        {
+          "time": 1710133987,
+          "online": 147
+        },
+        {
+          "time": 1710137645,
+          "online": 221
+        },
+        {
+          "time": 1710141304,
+          "online": 282
+        }
+      ],
+      "online": 333,
+      "additionalIps": [
+        "s1.arizona-v.com"
+      ],
+      "ip": "s1.arizona-v.com",
+      "number": 2,
+      "port": 22005,
+      "name": "Arizona V | Liberty",
+      "password": 0,
+      "maxplayers": 2050
+    }
+  ],
+  "village": [
+    {
+      "number": 2,
+      "name": "Village II",
+      "ip": "185.169.134.165",
+      "port": 7777,
+      "online": 7,
+      "maxplayers": 201,
+      "password": false,
+      "vk": "https://vk.com/bone_country",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/village/2.png",
+      "additionalIps": [
+        "185.169.134.165"
+      ],
+      "plotPoints": [
+        {
+          "online": 22,
+          "time": 1710059464
+        },
+        {
+          "online": 22,
+          "time": 1710063125
+        },
+        {
+          "online": 25,
+          "time": 1710066785
+        },
+        {
+          "online": 25,
+          "time": 1710070444
+        },
+        {
+          "online": 22,
+          "time": 1710074045
+        },
+        {
+          "online": 18,
+          "time": 1710077704
+        },
+        {
+          "online": 26,
+          "time": 1710081364
+        },
+        {
+          "online": 29,
+          "time": 1710085024
+        },
+        {
+          "online": 27,
+          "time": 1710088684
+        },
+        {
+          "online": 25,
+          "time": 1710092344
+        },
+        {
+          "online": 23,
+          "time": 1710096005
+        },
+        {
+          "online": 24,
+          "time": 1710099665
+        },
+        {
+          "online": 11,
+          "time": 1710103324
+        },
+        {
+          "online": 6,
+          "time": 1710106984
+        },
+        {
+          "online": 3,
+          "time": 1710110644
+        },
+        {
+          "online": 2,
+          "time": 1710114304
+        },
+        {
+          "online": 0,
+          "time": 1710117964
+        },
+        {
+          "online": 0,
+          "time": 1710121566
+        },
+        {
+          "online": 1,
+          "time": 1710125226
+        },
+        {
+          "online": 2,
+          "time": 1710128887
+        },
+        {
+          "online": 1,
+          "time": 1710132547
+        },
+        {
+          "online": 2,
+          "time": 1710136204
+        },
+        {
+          "online": 5,
+          "time": 1710139864
+        },
+        {
+          "online": 4,
+          "time": 1710143524
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "name": "Village I",
+      "ip": "185.169.134.164",
+      "port": 7777,
+      "online": 57,
+      "maxplayers": 201,
+      "password": false,
+      "vk": "https://vk.com/bone_country",
+      "tg": "https://t.me/arizona_rpcom",
+      "inst": "https://instagram.com/arizonagames_",
+      "icon": "https://arizona-recovery.react.domains/desktop/resources/icons/village/1.png",
+      "additionalIps": [
+        "185.169.134.164"
+      ],
+      "plotPoints": [
+        {
+          "online": 104,
+          "time": 1710056944
+        },
+        {
+          "online": 139,
+          "time": 1710060604
+        },
+        {
+          "online": 158,
+          "time": 1710064264
+        },
+        {
+          "online": 159,
+          "time": 1710067924
+        },
+        {
+          "online": 175,
+          "time": 1710071584
+        },
+        {
+          "online": 170,
+          "time": 1710075185
+        },
+        {
+          "online": 199,
+          "time": 1710078844
+        },
+        {
+          "online": 197,
+          "time": 1710082505
+        },
+        {
+          "online": 188,
+          "time": 1710086164
+        },
+        {
+          "online": 188,
+          "time": 1710089765
+        },
+        {
+          "online": 153,
+          "time": 1710093424
+        },
+        {
+          "online": 136,
+          "time": 1710097084
+        },
+        {
+          "online": 106,
+          "time": 1710100744
+        },
+        {
+          "online": 70,
+          "time": 1710104345
+        },
+        {
+          "online": 48,
+          "time": 1710108006
+        },
+        {
+          "online": 33,
+          "time": 1710111664
+        },
+        {
+          "online": 25,
+          "time": 1710115324
+        },
+        {
+          "online": 18,
+          "time": 1710118927
+        },
+        {
+          "online": 18,
+          "time": 1710122586
+        },
+        {
+          "online": 10,
+          "time": 1710126246
+        },
+        {
+          "online": 9,
+          "time": 1710129907
+        },
+        {
+          "online": 25,
+          "time": 1710133567
+        },
+        {
+          "online": 30,
+          "time": 1710137224
+        },
+        {
+          "online": 48,
+          "time": 1710140825
+        }
+      ]
+    }
+  ],
+  "arizona_staging": [
+    {
+      "number": 1,
+      "name": "Test 1",
+      "ip": "213.239.204.104",
+      "port": 1337,
+      "online": 0,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "",
+      "tg": "",
+      "inst": "",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/1.png",
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1679037305
+        },
+        {
+          "online": 0,
+          "time": 1679040963
+        },
+        {
+          "online": 0,
+          "time": 1679044623
+        },
+        {
+          "online": 0,
+          "time": 1679048283
+        },
+        {
+          "online": 0,
+          "time": 1679051942
+        },
+        {
+          "online": 0,
+          "time": 1679055543
+        },
+        {
+          "online": 0,
+          "time": 1679059203
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Zombie Apocalypse",
+      "ip": "213.239.204.104",
+      "port": 1968,
+      "online": 0,
+      "maxplayers": 1000,
+      "password": false,
+      "vk": "",
+      "tg": "",
+      "inst": "",
+      "icon": "https://pc.az-ins.com/resource/image/project_icons/zombie_apocalypse.png",
+      "plotPoints": [
+        {
+          "online": 0,
+          "time": 1679037305
+        },
+        {
+          "online": 0,
+          "time": 1679040963
+        },
+        {
+          "online": 0,
+          "time": 1679044623
+        },
+        {
+          "online": 0,
+          "time": 1679048283
+        },
+        {
+          "online": 0,
+          "time": 1679051942
+        },
+        {
+          "online": 0,
+          "time": 1679055543
+        },
+        {
+          "online": 0,
+          "time": 1679059203
+        }
+      ]
+    }
+  ]
+}
